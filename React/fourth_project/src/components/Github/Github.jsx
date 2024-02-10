@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
 function Github() {
     const data =useLoaderData()
